@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Flying serpent, or, Strange news out of Essex being a true relation of a monstrous serpent which hath divers times been seen at a parish called Henham on the Mount within four miles of Saffron-Walden : showing the length, proportion and bigness of the serpent, the place where it commonly lurks, and what means hath been used to kill it : also a discourse of other serpents, and particularly of a cockatrice killed at Saffron-Walden / the truth of thi[s] relation of the serpent is attested, by [brace] Richard Jackson ... [et al.].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39848</idno>
+            <idno type="STC">Wing F1392</idno>
+            <idno type="STC">ESTC R40946</idno>
+            <idno type="EEBO-CITATION">19537704</idno>
+            <idno type="OCLC">ocm 19537704</idno>
+            <idno type="VID">109056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109056)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1687:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Flying serpent, or, Strange news out of Essex being a true relation of a monstrous serpent which hath divers times been seen at a parish called Henham on the Mount within four miles of Saffron-Walden : showing the length, proportion and bigness of the serpent, the place where it commonly lurks, and what means hath been used to kill it : also a discourse of other serpents, and particularly of a cockatrice killed at Saffron-Walden / the truth of thi[s] relation of the serpent is attested, by [brace] Richard Jackson ... [et al.].</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Peter Lillicrap ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1669?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and tightly bound, with print show-through and slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Serpents --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109056:1" rendition="simple:additions"/>
+            <p>THE Flying Serpent, OR, Strange News out of ESSEX BEING A true Relation of a Monſtrous Serpent which hath divers times been ſeen at a Pariſh called <hi>Henham on the Mount</hi> within four Miles of <hi>Saffron-Walden.</hi>
+            </p>
+            <p>Showing the length, proportion, and bigneſs of the Serpent, the place where it commonly lurks, and what means hath been uſed to kill it.</p>
+            <p>Alſo a diſcourſe of other Serpents, and particu<g ref="char:EOLhyphen"/>larly of a Cockatrice killed at Saffron-Walden.</p>
+            <p>The truth of thi Relation of the Serpent is atteſted.</p>
+            <list>
+               <label>By</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Richard Jackſon</hi> Church-Warden<g ref="char:punc">▪</g>
+                     </item>
+                     <item>
+                        <hi>Thomas Preſland</hi>-Conſtable.</item>
+                     <item>
+                        <hi>John Knight</hi> Overſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> for the Poor.</item>
+                     <item>
+                        <list>
+                           <head>Houſholders.</head>
+                           <item>
+                              <hi>Barn <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> Thurgood</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel-Garre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi>
+                           </item>
+                           <item>
+                              <hi>Richard Seely</hi>
+                           </item>
+                           <item>
+                              <hi>William Green.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and ſold by <hi>Peter Lillicrap</hi> in <hi>Clerkenwell.</hi>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:109056:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of serpent and armed men</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109056:2"/>
+            <head>Strange News out of <hi>Eſſex,</hi> OR, The Winged Serpent.</head>
+            <p>GUeſts, Fiſh, and news grow ſtale in three days time, and no<g ref="char:EOLhyphen"/>thing delights an <hi>Engliſh-Mans</hi> fancy ſo much as new novelties, for like the <hi>Athenians</hi> we have ſtill itching Ears after News, which once told we ſoon grow weary of it and hearken after more; being ſtill deſirous of that which is new, which makes ſo many tauto<g ref="char:EOLhyphen"/>ligies in the title of Books; ſome ſtiling them <hi>new news,</hi> whereas if it be news it muſt needs be new; ſo alſo a new Almanack for the Year, 1669. Whereas an Almanack for ſuch a year were as proper, if not properer; or if it be only for that year it can neither be new nor old for any other. But this news which I ſhall now relate, as it is certain; being atteſted by many credible perſons, ſo it is alſo new, the veno<g ref="char:EOLhyphen"/>mous creature being ſtill living though oftentimes attempted by the inhabitants to be killed.</p>
+            <p>The place of his abode and where he hath been oftentimes ſeen, is called <hi>He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham,</hi> but moſt commonly <hi>Hc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham on the Mount,</hi> the Town ſtanding upon a Hill, having many fair Farms and Granges belonging to it, in one of which named the <hi>Lodge,</hi> near to a VVood called <hi>Bir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h-Wood,</hi> by reaſon of the many Birches growing there, in a paſture ground cloſe by the ſame, hath this monſtrous Serpent been often ſeen as he hath lain upon the ſides of a Bank, beaking and ſtretching himſelf out upon the ſame, at ſuch time as <hi>Sel</hi> did parch the earth with his r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fulgent beams.</p>
+            <lg>
+               <pb facs="tcp:109056:3"/>
+               <l>Then when the Sun ſhines hot he nimbly hurls</l>
+               <l>His wanton body into numerous curls;</l>
+               <l>Gather'd in folds, ſhoots out his forked tongue</l>
+               <l>To ſave himſelf, and give his foes the wrong.</l>
+            </lg>
+            <p>The firſt time that he was ſeen was about the 27 or 28 of <hi>May</hi> laſt a Gentlemans way lying by the place where this Serpent keeps hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtation, as he rid careleſly on, expecting to receive no hurt as he intend<g ref="char:EOLhyphen"/>ed none, on a ſudden this Serpent aſſailed his Horſe, affirighting the Rider ſo much with his monſtrous proportion and bold courage to give ſuch an onſet, that all in a maze he ſpurred his Horſe, who al<g ref="char:EOLhyphen"/>moſt as much affraid as his Maſter, with winged ſpeed haſted away, glad that they had eſcaped ſuch an eminent danger.</p>
+            <p>Being come home he acquaints his Friends and Neighbors with what he had ſeen of this monſtrous Serpent, eſpecially makes it known to a Neighbour in whoſe grounds this Serpent doth lurk, wiſh<g ref="char:EOLhyphen"/>ing him to beware of his Cattle, and to uſe his beſt indeavour for de<g ref="char:EOLhyphen"/>ſtroying it, leaſt by protraction of time it might do much miſchief when <hi>had I wiſt</hi> would be but ſmall comfort to him for the loſſes he might ſuſtain.</p>
+            <p>Not long after two men of the ſame Pariſh walking that way, eſpy'd this Serpent as he lay on a Hillock beaking himſelf againſt the Sun, where they beheld his full proportion, being as near as they could gueſs 8 or 9 foot long, the ſmalleſt part of him about the bigneſs of a Mans Leg, on the middle as big as a Mans Thigh, his eyes were very large and piercing, about the bigneſs of a Sheeps eye, in his mouth he had two row of Teeth which appeared to their ſight very White and ſharp, and on his back he had two wings indifferent large<g ref="char:punc">▪</g> but not pro<g ref="char:EOLhyphen"/>portionable to the reſt of his body, they judging them not to be above two handfulls long, and when ſpreaded, not to extend from the top of one wing to the utmoſt end of the other above two foot at the moſt, and therefore altogether too weak to carry ſuch an unweildy body. Theſe Men though armed with clubs and ſtaves, yet durſt not approach to ſtrike this Serpent, neither it ſeems was the Serpent afraid of them, for raiſing himſelf upon his breaſt about the heighth of two foot, he ſtood looking on them as daring them to the encounter, like
+<pb facs="tcp:109056:3"/> to that of the <hi>Theban</hi> Serpent, of which thus the Poet.</p>
+            <lg>
+               <l>Which with a hiſſing from his Den appears</l>
+               <l>Amazing both at once the Eyes and ears,</l>
+               <l>Fire from his threatning eyes like lightning ſhot</l>
+               <l>And S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ygian blaſts exhaled from his dire throat.</l>
+            </lg>
+            <p>Not knowing on a ſudden what to do, at laſt it was reſolved by them that the one ſhould go to the <hi>Lodge</hi> (which was not far off) to fetch a Gun, and the other in the mean time to watch the Serpent, who ſtill ſtood facing them as though he dreaded no danger that could happen to him; being as fierce and undaunted as that Serpent of which the Divine <hi>Du-Bartas</hi> giveth us this deſcription.</p>
+            <lg>
+               <l>The ſeveral Snakes that out of <hi>Libia's</hi> ſlime</l>
+               <l>Are bred, they all in him might well combine,</l>
+               <l>Nor could <hi>Meduſa's</hi> head had all the blood</l>
+               <l>In one place faln, produce a deadlier brood;</l>
+               <l>Whoſe ſpeckled belly with more ſpots is deckt</l>
+               <l>Then various <hi>Theban</hi> marble is beſpeckt.</l>
+            </lg>
+            <p>But whilſt the one was thus gone for the Gun, the Serpent as if he had waited long enough, folds himſelf up, and darting forth returns to the Wood, making ſuch a ruſtling noiſe in the hedge as if ſome wild Boar, or other large Beaſt had been breaking thorow it.</p>
+            <p>About 2 days after the ſame Serpent was ſeen by another, who gave the ſame deſcription of it with the two former as is above written.</p>
+            <p>Since which time it hath been ſeen by divers who have fruitleſly at<g ref="char:EOLhyphen"/>tempted to kill it; for now upon the ſight of a man, it preſently betakes its ſelf to the Wood, where he remains ſafe, none daring to come nigh it with Clubs, and for their Guns in that place where he can hide him<g ref="char:EOLhyphen"/>ſelf in Buſhes, and Bents, they are altogether uſeleſs; yet has there been and is ſtill continued to this day, great watching by ſeveral Perſons with Muſquets and Fowling-peices and ſuch like to ſhoot it but as yet it hath been no Mans good fortune to light on him.</p>
+            <p>The report of this Serpent is ſo terrible to the inhabitants thereabout that no women, children, nay nor a great many men durſt not go near the place where he lurks, yet we hear not of any miſchief that he hath yet done, though it be a wonder to moſt people on what he ſubſiſts,
+<pb facs="tcp:109056:4"/> and that hunger does not compell him to range f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther abroad, ſeeing he wants not for courage, as may be evidenced in his ſo facing of the two men aforeſaid.</p>
+            <p>We read in antient Hiſtories of a Serpent in <hi>Tripoli</hi> a Country in <hi>Aſia</hi> that was one hundred twenty and five paces in length, he had a mouth ſo wide, that he could ſwallow a man on horſeback, and each of his Scales were as big as a large ſheild.</p>
+            <p>They alſo tell us of <hi>Hydra,</hi> a monſtrous ſerpent on the Lake of <hi>Ler<g ref="char:EOLhyphen"/>na</hi> who having one head cut off, immediately had two other Heads grew up in the ſame place; this Serpent was at laſt ſlain by <hi>Hercules.</hi>
+            </p>
+            <p>
+               <hi>Pliny</hi> tells us of the <hi>Rinocerote</hi> a ſmall Serpent which winds him<g ref="char:EOLhyphen"/>ſelf about the leg of an <hi>Elephant,</hi> who with his Trunk ſeeking to rid him, when forthwith, the Serpent creeps into the Trunk, and ſo kills the <hi>Elephant,</hi> but long he injoys not the conqueſt, for the <hi>Elephant</hi> kills the <hi>Rinocerote</hi> with his fall.</p>
+            <p>He alſo tells us of the <hi>Scorpion</hi> a venemous Serpent with 7 feet his ſting is in his Tayl; ſometimes they eat their young ones, and are of divers colours; the Female is the biggeſt and hath the ſharpeſt ſting The <hi>Arcadian Scorpion</hi> will not hurt their Countrymen, nor the <hi>Syrian</hi> Snakes, nor <hi>Tyrinthian</hi> Serpent.</p>
+            <p>We alſo read of a Serpent named <hi>Amphiſbona,</hi> who had a head at both ends, as alſo of a Serpent called <hi>Boas,</hi> of that bigneſs, that being found dead, there was a whole Child in his Belly.</p>
+            <p>The <hi>Aſp</hi> is a very venemous Serpent, they always go two and two together, and if one of them be ſlain, the other will purſue him ea<g ref="char:EOLhyphen"/>gerly that ſlew him, and if a man chance to be bitten by this Serpent it is preſent death if he cut not off the member ſo bitten. <hi>Cleopatra</hi> Queen of <hi>Egypt</hi> being taken by <hi>Caeſar</hi> applying theſe Serpents to her body wilfully ſlew her ſelf.</p>
+            <p>Nor can we here forget the <hi>Viper,</hi> a moſt venemous Serpent, the Male hath but one Tooth of each ſide, the Female more, when they engender, the Male putteth his Head in the Females Mouth, which ſhe biteth off, and their young do gnaw their dams belly, and kill her to get out the ſooner.</p>
+            <p>But of all Serpents, the <hi>Baſalisk</hi> or <hi>Cockatrice</hi> is the moſt vene<g ref="char:EOLhyphen"/>mous
+<pb facs="tcp:109056:4"/> of all other; It breaketh ſtones, blaſteth all Plants with his breath, it burneth every thing it goeth over; no Herb can grow near the place of his abode, it is poiſon to poiſon, and frighteth away all other Serpents, only with hiſſing. If a man touch it though with a long pole it kills him, and if it ſee a man a far off it deſtroys him with his looks. It is not above a foot in length, of colour between black and yellow, having very red eyes, a ſharp head and a white ſpot thereon like a Crown. It goeth not winding like other Serpents but upright on his breaſt. One of theſe moſt venemous Serpents in former time lurked about the Meads near <hi>Saffron-Walden</hi> in <hi>Eſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> who by his very ſight, killed ſo many as the Town become almoſt depopulated, when a valerous Knight making him a Coat of Chriſtal Glaſs, boldly went to aſſail this <hi>Cockatrice,</hi> but her venemous Nature not able to indure the purity of that fine mettle, ſhe ſuddenly dyed in memory where of his Sword was hung up in <hi>Walden</hi> Church, the effiigies of the <hi>Cockatrice</hi> ſet up in Braſs, and a Table hanged cloſe by wherein was continued all the ſtory of the adventure; but in theſe late times of Rebellion, it being taken for a monument of ſuperſtiti<g ref="char:EOLhyphen"/>on was by the lawleſs Souldiers broken in peices, to ſhow they were alſo of a venemous Nature as well as the <hi>Cockatrice.</hi>
+            </p>
+            <p>We read that in the Reign of King <hi>Edward</hi> the third, <hi>Anno</hi> 135. near <hi>Chipping-Norton</hi> in <hi>Oxford-ſhire,</hi> was found a Serpent having two heads, and two faces like Women, one face attired of the new faſhi<g ref="char:EOLhyphen"/>on of Womens attire, the other face like the old attire, and had wings like a bat.</p>
+            <p>Therefore Serpents in this Kingdom are no new thing, and thoſe far more monſtrous and prodigious then this, though this be one of the greateſt that we have heard of in this latter age. Nor is there any Countries in the whole World exempted from them, ſaving only <hi>Creta</hi> or <hi>Candy</hi> an Iſland of <hi>Greece,</hi> for which now there is ſo much ſtir betwixt the <hi>Chriſtians</hi> and <hi>Turks,</hi> and the Country of <hi>Ireland,</hi> which two places do neither breed any venemous Worms, nor hurt<g ref="char:EOLhyphen"/>ful Creatures, nor will any live there if they be brought thither from Forraign Countries.</p>
+            <p>And to this purpoſe I ſhall tell you a ſtory and ſo draw towards
+<pb facs="tcp:109056:5"/> a concluſion. A certain Countryman coming up to <hi>London,</hi> a friend of his ſhewed him all the rarities of the City, amongſt others one was <hi>Weſtminſter-Hall,</hi> which his friend told him was ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iled with <hi>Iriſh Wood,</hi> the Nature of which is ſuch as it would indure <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o venemous Creature nigh it. Ah (ſaid the Countryman) if the ſeats and bars were made of that Wood, the Lawyers muſt find ſome other place to plead in.</p>
+            <p>And now for a Corollary to the whole, <hi>I</hi> ſhall inſert ſome Verſe made by an excellent Poet upon a Serpent found near <hi>Millain</hi> in <hi>Italy.</hi>
+            </p>
+            <lg>
+               <l>The poyſonous Serpent then himſelf extending,</l>
+               <l>His ſpeckled Breaſt, and flamy main all benaing;</l>
+               <l>Above his Main his ugly odious Tayl</l>
+               <l>And Back with fearful folds does wrigling trail;</l>
+               <l>His gagling eyes flaſhing forth blood and fire</l>
+               <l>His hiſſing mouth ſharp tongue does flench expi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</l>
+               <l>With ſpatious windings rouling on the ſand;</l>
+               <l>He killeth all that cometh near to hand.</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <head>Poſt-ſcript.</head>
+            <p>Since I am informed by the Neighbours thereabout, that they in<g ref="char:EOLhyphen"/>tend to keep a conſtant Watch upon it, till ſuch time as they hope to kill it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="afterword">
+            <pb facs="tcp:109056:5" rendition="simple:additions"/>
+            <p>THIS SERPENT is of that Species call'd RATTLE-SNAKES, which ſcarcely being known in this part of the World, it may not be improper to add to this Advertiſement, the De<g ref="char:EOLhyphen"/>ſcription given of it by Dr. <hi>Horſeman,</hi> in his ſhort Hiſtory of <hi>America,</hi> viz.</p>
+            <q>
+               <p>The RATTLE-SNAKE, ſays he, is the moſt ſurprizing Creature that is found in <hi>America,</hi> if not in the whole Univerſe; he is ſo call'd, from his Snake-like Form, and having ſeveral thin hollow horny Sub<g ref="char:EOLhyphen"/>ſtances, reſembling the Heads of a Row of <hi>Indian Corn,</hi> looſely jointed into each other, growing at the end of his Tail, and encreaſing in their Number Yearly, upon the leaſt tremor of which they ſtrike againſt each other, and rattle together, ſo as to be heard at a conſiderable Diſtance.</p>
+               <p>He is a SERPENT full of Courage, Fire, and Spirit, gives way to no Creature living, is eaſily pro<g ref="char:EOLhyphen"/>vok'd, and when ſo, always ſhakes his Rattles, which if not regarded, ſo as ſoon to avoid him, he darts or throws himſelf ſwiftly forwards, ſometimes the whole Length of his Body, with his Mouth wide open, attempting to bite at whoever affronts him. Whatever Creature he bites immediately dies. He has in his Upper Jaw, four Fangs or curv'd Teeth two of each ſide; ſheath'd, and turn over each other, lying backwards with their Points up cloſe to his Jaw-bone, ſo that he eaſily ſhuts his Mouth, but when he opens it for Miſchief he unſheaths them, and throws them forward, as a Lyon doth his Talons. Theſe Teeth are hollow quite through, very Sharp and opened, a little above quite down to their Points. As if a part had been ſlop'd off with ſome Inſtrument; The Cavities of which are always fill'd with liquid Poiſon, ſo that wherever he wounds, ſome portion of this Venine Matter muſt be left in each Puncture, which, tho' not the hundredth part of a Drop in Quantity, is of that infinite Force, Subtilty and Activity, that as ſoon as mix'd with the Fluids of the Animal, it inſtantly affects the whole Body, by cauſing ſuch a praeternatural Ferment and Rare<g ref="char:EOLhyphen"/>faction of the Blood, and Juices, ſo as to burſt all the Veſſels and overflow the Channels through which they paſs, and at once put an entire end to Circulation and Life together.</p>
+               <p>And yet the Fleſh of theſe Serpents is often eaten by the <hi>Indians,</hi> and the Fat of them; held in high Eſteem among them, and is perhaps the greateſt Anodyne upon Earth, and no doubt of it, the very Remedy they cure themſelves with when bitten by them.</p>
+               <p>Nor is this Creature leſs wonderful in the Manner of Procuring his Prey, than his Power of Deſtroying it; for as he chiefly lives upon Birds and ſmall Quadrupedes, ſo to this end he comes out into ſome open place near the Woods, draws himſelf up into a Coil, and in that manner lies, expoſing his Body to the Beams of the Sun when in its full Luſtre; which being cover'd with ſmooth ſhining Scales of a very ſolid Texture, adorn'd with a large Variety of lively Colours moſt beautifully diſpos'd, reflects the Rays of Light with ſuch Force and Strength, and in ſuch an amazing manner, that Birds that accidentally caſt their Eyes upon him are arreſted in their Flight, and Squirrels allur'd from the very Tops of Trees, and ſo ſuddenly confounded, they haſtily draw near to the charming Wonder till they come within his fatal reach.</p>
+               <p>In ſhort, ſo very powerful are the Charms of this moſt aſtoniſhing Creature when thus expos'd that no Human Eye can look ſtedfaſtly upon him without being ſoon enſnared. This I dare venture to affirm, becauſe I have my ſelf, more than once gaz'd at theſe Creatures in the Sun, 'till I had loſt almoſt all my Reaſon.</p>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
